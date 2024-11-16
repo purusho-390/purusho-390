@@ -60,9 +60,7 @@
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purusho-390&show_icons=true&locale=en&layout=compact" alt="purusho-390" />
   </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=purusho-390&show_icons=true&locale=en" alt="purusho-390" />
-  </div>
+ 
 </div>
 
 <p align="center">
